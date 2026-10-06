@@ -1,3 +1,4 @@
+import React from "react";
 import { process, projectPlaceholders, services, skills } from "./data.js";
 
 function Arrow() {
